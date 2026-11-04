@@ -19,3 +19,13 @@ metadata
 *.txt
 *.rds
 *.Rproj
+
+# Esclusioni R e dati
+*.RData
+*.Rhistory
+*.Rproj
+.Rproj.user/
+*.txt
+*.csv
+*.tsv
+*.rds
