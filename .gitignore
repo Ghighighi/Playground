@@ -3,3 +3,10 @@
 .Rhistory
 .RData
 .Rproj.user/
+
+# macOS AppleDouble
+metadata
+._*
+**/._*
+.DS_Store
+**/.DS_Store
