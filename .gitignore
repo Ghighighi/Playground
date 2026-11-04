@@ -10,3 +10,12 @@ metadata
 **/._*
 .DS_Store
 **/.DS_Store
+
+# Dati, ambienti e appunti esclusi
+*.RData
+*.Rhistory
+*.csv
+*.tsv
+*.txt
+*.rds
+*.Rproj
